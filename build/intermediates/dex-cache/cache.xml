@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.0_b4bb685c4d279f2356faf9df57c40c9ab984347e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_280364cc973053201d89d5eac3fb221b25ede7a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_1617278241b61afe27888e6fe11a056d532d5670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.0_99fcfe0d5e8104531dd9e6c8eed9229441b9c7d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_cc15144586b3dffa36018a36028a59eaf125dbb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_85b19cb3d4ec2a1790f929e9714aa96c0e8381fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_57ea2ee05230553e482dfb7c5235999c83b9516b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_1c7708de22bb6c4227544716a36adecda784204c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_fbe456b45f8e2373813666adee2dc64835f1d346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_8740edf727e8f549548a78568e19142f37d51f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_9559dd8e2ad9e3a6c6f78f84db3bedfce048efb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.0_ff98fc496789643331332ac2629c165437eb4ae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.github.nisrulz/qreader/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e3d64b413b11a8168885bda4773343962c281bc">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nisrulz-qreader-2.0.1_b9975cb3356542e17e52c0e6f51c209ab3537466/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="16265deb2f1558a01b81cb9dad609c9dfd78929f">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7958fc4c4890f5a178624ecd0d91c216db36d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_1f1db89de7f226fdadfeb6d1c4aa51a5a89a8057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_2d73f8157427e9ace41ced4a9f4e4e6f84727ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a26f6cfde0e240389ded1ec3418c9d2d68432e81">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21ba10e4c806234748545b70e9b3fda28fdaa62a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_d2521e2ff581266c286127573c00badda7caad1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_1f127ad65996242b405518957d34784ab9ae2d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/libs/android-core-3.3.1-20160916.143845-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5d326c231c4ebff9231847accc6c981dfd41754">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-core-3.3.1-20160916.143845-1_efbf9e0006350673b4856eb0751a1cdaf3aa39b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_7921be97c5d9162516a1a5e70f34a44b2c454ce0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_5934bc16cf5b17df525b3b4cc11ff8686d515b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mayurphadte/Desktop/CheckerAppIITB2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_05a546767a11e1531416c00a313f919acadca881/classes.dex" />
+    </item>
+
+</items>

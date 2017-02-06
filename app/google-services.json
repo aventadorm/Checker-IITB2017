@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "230804105052",
+    "firebase_url": "https://audio-86c21.firebaseio.com",
+    "project_id": "audio-86c21",
+    "storage_bucket": "audio-86c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230804105052:android:a36ad066a84d9ea6",
+        "android_client_info": {
+          "package_name": "com.dupletstudios.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230804105052-p24fbo5e9d77m74udqubcbvc2vb9vod7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dupletstudios.audio",
+            "certificate_hash": "B1533D894AE9701CD54CB7713CF7CA8721ADE1ED"
+          }
+        },
+        {
+          "client_id": "230804105052-jcr6omle2ru2962l4547s9rmn1qh1ord.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dupletstudios.audio",
+            "certificate_hash": "5FAC107D8E7E77C0DB333F60D670EA45E0F5300B"
+          }
+        },
+        {
+          "client_id": "230804105052-mehp1ggo1vog6e9c7tleo7tou7o98m2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dupletstudios.audio",
+            "certificate_hash": "ACC20AFEF6DFEB0083E18E3FE3EC14D3A43FF8A2"
+          }
+        },
+        {
+          "client_id": "230804105052-i86piod89ap8ocfgvlrcp25707n96h1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyD980KJj5LkGPddTTaSQ_Ut5xwwhNPUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230804105052-i86piod89ap8ocfgvlrcp25707n96h1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230804105052:android:2ae0578604f2868d",
+        "android_client_info": {
+          "package_name": "com.mayurphadte.checkerappiitb2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230804105052-m07odmaotq0fhron23of93eb1pum56te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayurphadte.checkerappiitb2017",
+            "certificate_hash": "5FAC107D8E7E77C0DB333F60D670EA45E0F5300B"
+          }
+        },
+        {
+          "client_id": "230804105052-i86piod89ap8ocfgvlrcp25707n96h1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyD980KJj5LkGPddTTaSQ_Ut5xwwhNPUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230804105052-i86piod89ap8ocfgvlrcp25707n96h1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
